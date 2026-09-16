@@ -373,6 +373,39 @@ All automated tests execute against live repositories, business services, multit
 - **Email/Webhook Notification Hooks**: Emitting automated webhooks when `DeadlineMonitor` detects overdue milestones.
 
 ---
+## Screenshots
+
+### Main Menu
+![BuildTrack Main Menu](docs/main-menu.png)
+
+### Dashboard
+![BuildTrack Dashboard](docs/dashboard.png)
+
+### Project Management
+![Project Management](docs/project-management.png)
+
+### Build Step Management
+![Build Step Management](docs/build-steps.png)
+
+### Component Management
+![Component Management](docs/components.png)
+
+### Inventory Management
+![Inventory Management](docs/inventory.png)
+
+### Expenses & Budget
+![Expenses and Budget](docs/budget.png)
+
+### Feasibility Analysis
+![Feasibility Analysis](docs/feasibility.png)
+
+### Equipment Management
+![Equipment Management](docs/equipment.png)
+
+### Report Generation
+![Report Generation](docs/reports.png)
+
+---
 
 ## 22. Submission Metadata
 - **Project**: BuildTrack
